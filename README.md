@@ -1,4 +1,7 @@
+![](C:\Users\Bhaskar\Desktop\New folder\E-yrc-2019-crow-bot\Images and Docs\eYantra_logo.svg)
+
 # Eyantra_Thirsty_Crow
+
 **NATIONAL FINALIST 2018 E-YRC IIT BOMBAY**                      		                                                                                                                         
 
 **Team leader :** Bhaskar Dutt                              
