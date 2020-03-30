@@ -15,12 +15,6 @@ Varun Pandey
 * Images and Docs has the images and all the pdf used.
 * Python code has **Main.py** which combines the shortest path algo with AR part using the code **python_AR.py** & **Graph.py**.
 
-**BoT Construction**:
-
-![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/1.jpeg)
-
-![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/2.jpeg)
-
 **Abstract:**
 
 In this competition every team is given a theme like ours is Thirsty Crow and there are **28000 participants** out of which only 150 are selected for national finals at IIT Bombay and my team were in the finalists Our projects include a bot called crow which uses atmega2560 with LFR sensors to follow black line using the commands received through ZigBee protocol. The commands were send through companion computer which run A* shortest path algorithm along with that it includes the use of **OpenCV ,OpenGL for AR** in the project.
@@ -30,3 +24,9 @@ In this competition every team is given a theme like ours is Thirsty Crow and th
 **Technology Used:**
 
 AR, python, Embedded C on At-mega 2560, Blender, Path planning algo A*
+
+**Crow_BOT Construction**:
+
+![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/1.jpeg)
+
+![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/2.jpeg)
