@@ -1,4 +1,4 @@
-![](C:\Users\Bhaskar\Desktop\New folder\E-yrc-2019-crow-bot\Images and Docs\eYantra_logo.svg)
+![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/eYantra_logo.svg)
 
 # Eyantra_Thirsty_Crow
 
