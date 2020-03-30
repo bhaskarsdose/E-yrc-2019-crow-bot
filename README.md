@@ -2,7 +2,7 @@
 
 # Eyantra_Thirsty_Crow
 
-**NATIONAL FINALIST 2018 E-YRC IIT BOMBAY**                      		                                                                                                                         
+**NATIONAL FINALIST  E-YRC 2018 @IIT BOMBAY**                      		                                                                                                                         
 
 **Team leader :** Bhaskar Dutt                              
 Akshay Sharma  
