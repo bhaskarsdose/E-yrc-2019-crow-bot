@@ -1,5 +1,7 @@
 # Eyantra_Thirsty_Crow
-**NATIONAL FINALIST 2018 E-YRC IIT BOMBAY**		                                                                                                                         **Team leader :** Bhaskar Dutt                              
+**NATIONAL FINALIST 2018 E-YRC IIT BOMBAY**                      		                                                                                                                         
+
+**Team leader :** Bhaskar Dutt                              
 Akshay Sharma  
 Deepanshu Singh  
 Varun Pandey  
@@ -15,9 +17,9 @@ Varun Pandey
 
 **BoT Construction**:
 
-![]()
+![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/1.jpeg)
 
-![]()
+![](https://github.com/bhaskarsdose/E-yrc-2019-crow-bot/blob/master/Images%20and%20Docs/2.jpeg)
 
 **Abstract:**
 
